@@ -12,7 +12,6 @@
 <!-- Core Badges -->
 ![Members](https://img.shields.io/badge/Members-13%20Active-00d9ff?style=for-the-badge&logo=groups&logoColor=white)
 ![Division](https://img.shields.io/badge/Divisions-7%20Fields-7c3aed?style=for-the-badge&logo=buffer&logoColor=white)
-![Location](https://img.shields.io/badge/Jakarta-Indonesia-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Disclosure](https://img.shields.io/badge/Responsible%20Disclosure-100%25-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 <!-- Status Badges -->
@@ -27,6 +26,7 @@
 
 ## 🛡️ About Anthefonic Team
 
+> *"Kritik kami adalah wujud kepedulian, bukan permusuhan."*
 
 **Anthefonic Team (ATF)** adalah tim kolaboratif keamanan digital yang berfokus pada **analisis keamanan**, **edukasi siber**, **riset risiko TI**, dan **responsible disclosure**.
 
@@ -113,19 +113,59 @@ Beranggotakan **13 spesialis** dari berbagai disiplin ilmu — dari AI & forensi
 ## ⚖️ Prinsip Kerja
 
 <div align="center">
+<sub>Kerangka etika yang menjadi landasan setiap keputusan dan tindakan Anthefonic Team.</sub>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║              ANTHEFONIC TEAM — CORE PRINCIPLES               ║
-╠══════════════════════════════════════════════════════════════╣
-║  01  Kehati-hatian & Etika       → Etika adalah fondasi       ║
-║  02  Validasi Informasi          → No claim without proof     ║
-║  03  Responsible Disclosure      → Fix, not fame              ║
-║  04  Wetware Awareness           → Humans are the weakest link║
-║  05  Pembatasan Akses Sensitif   → Need-to-know basis only    ║
-║  06  Kolaborasi tanpa Ego        → 13 minds, one mission      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 &nbsp;01 — Kehati-hatian &amp; Etika</h3>
+      <p>Setiap riset dan analisis dilakukan dengan penuh kehati-hatian.<br/>
+      <strong>Etika bukan opsi — melainkan fondasi.</strong></p>
+      <img src="https://img.shields.io/badge/Prinsip-Etika%20Adalah%20Fondasi-00d9ff?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 &nbsp;02 — Validasi Informasi</h3>
+      <p>Kami tidak menyebarkan informasi yang belum terverifikasi.<br/>
+      <strong>No claim without proof.</strong></p>
+      <img src="https://img.shields.io/badge/Prinsip-No%20Claim%20Without%20Proof-7c3aed?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📢 &nbsp;03 — Responsible Disclosure</h3>
+      <p>Temuan disampaikan ke pihak berwenang <em>sebelum</em> dipublikasikan.<br/>
+      <strong>Fix, not fame.</strong></p>
+      <img src="https://img.shields.io/badge/Prinsip-Fix%2C%20Not%20Fame-22c55e?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 &nbsp;04 — Wetware Awareness</h3>
+      <p>Celah terbesar ada pada manusia — kelalaian, kebijakan lemah, etika yang ditinggalkan.<br/>
+      <strong>Humans are the weakest link.</strong></p>
+      <img src="https://img.shields.io/badge/Prinsip-Humans%20Are%20The%20Weakest%20Link-ef4444?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 &nbsp;05 — Pembatasan Akses Sensitif</h3>
+      <p>Data sensitif hanya diakses oleh anggota dengan kebutuhan legitim dan telah melalui verifikasi internal.<br/>
+      <strong>Need-to-know basis only.</strong></p>
+      <img src="https://img.shields.io/badge/Prinsip-Need%20To%20Know%20Only-f59e0b?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 &nbsp;06 — Kolaborasi tanpa Ego</h3>
+      <p>Perbedaan keahlian adalah kekuatan. Kritik internal adalah tanda kepedulian, bukan permusuhan.<br/>
+      <strong>13 minds, one mission.</strong></p>
+      <img src="https://img.shields.io/badge/Prinsip-13%20Minds%2C%20One%20Mission-0ea5e9?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+> *"Kritik kami adalah wujud kepedulian, bukan permusuhan."* — Anthefonic Team
 
 </div>
 
@@ -148,18 +188,41 @@ Beranggotakan **13 spesialis** dari berbagai disiplin ilmu — dari AI & forensi
 
 ---
 
-## 📂 Repository Index
+## 📂 Project Index
 
 > Semua repositori bersifat riset, edukasi, atau dokumentasi. Tidak ada konten yang dimaksudkan untuk penyalahgunaan.
 
-| Repo | Deskripsi | Status |
-|------|-----------|--------|
-| 📁 `.github` | Org profile & welcome page | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-| 🔬 `threat-intel-reports` | Laporan intelijen ancaman terkurasi | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-| 📚 `cyber-education` | Materi edukasi keamanan siber publik | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-| 🛡️ `hardening-guides` | Panduan hardening sistem & server | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-| 🔍 `malware-analysis` | Laporan analisis malware (static/dynamic) | ![Research](https://img.shields.io/badge/-Research-f59e0b?style=flat-square) |
-| 📋 `incident-playbooks` | Prosedur respons insiden terstruktur | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Deskripsi</th>
+      <th>Website</th>
+      <th>Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🏠 .github</strong><br/><sub><code>org-profile</code></sub></td>
+      <td>Halaman profil resmi organisasi Anthefonic Team di GitHub — welcome page, struktur tim, dan dokumentasi umum.</td>
+      <td><a href="https://anthefonic.biz.id"><img src="https://img.shields.io/badge/anthefonic.biz.id-Visit-00d9ff?style=flat-square&logo=googlechrome&logoColor=white" /></a></td>
+      <td><a href="https://github.com/Anthefonic-Team/.github"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>🛰️ ShadowGrid</strong><br/><sub><code>anthefonic-tools</code></sub></td>
+      <td>
+        Platform keamanan digital untuk analisis postur domain secara komprehensif dan non-intrusif.<br/><br/>
+        Mencakup <strong>25+ modul scanning</strong>: DNS Posture, TLS Health, HTTP Security Headers, Port Exposure, XSS, SQL Injection, CVE Check (Log4Shell, Spring4Shell), Nuclei, NMAP TCP/UDP, OWASP ZAP, Subdomain Enum, JS Bundle Audit, GitHub Leak Intel, dan lainnya.<br/><br/>
+        Output berupa <em>integrity score</em>, laporan severity-based, dan rekomendasi konkret — tersedia dalam format <code>HTML · JSON · PDF · TXT</code>.<br/><br/>
+        <img src="https://img.shields.io/badge/Modules-25+-00d9ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Report-JSON%20%7C%20PDF%20%7C%20HTML-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/Use-Authorized%20Only-ef4444?style=flat-square" />
+      </td>
+      <td><a href="https://shadowgrid.anthefonic.biz.id"><img src="https://img.shields.io/badge/shadowgrid.anthefonic.biz.id-Visit-22c55e?style=flat-square&logo=googlechrome&logoColor=white" /></a></td>
+      <td><a href="https://github.com/Anthefonic-Team/shadowgrid"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -191,7 +254,7 @@ Kami terbuka untuk **kolaborasi riset**, **responsible disclosure**, dan **konsu
 
 <div align="center">
 
-**Anthefonic Team · ATF · Jakarta, Indonesia**
+**Anthefonic Team · ATF**
 
 *"Celah keamanan terbesar bukan pada kode — melainkan pada manusia."*
 
