@@ -27,8 +27,6 @@
 
 ## 🛡️ About Anthefonic Team
 
-> *"Kritik kami adalah wujud kepedulian, bukan permusuhan."*
-
 **Anthefonic Team (ATF)** adalah tim kolaboratif keamanan digital yang berfokus pada **analisis keamanan**, **edukasi siber**, **riset risiko TI**, dan **responsible disclosure**.
 
 Beranggotakan **13 spesialis** dari berbagai disiplin ilmu — dari AI & forensik hingga network security & tata kelola etika digital. Kami percaya bahwa celah keamanan terbesar bukan hanya pada kode atau server, melainkan pada **manusia (wetware)** — kelalaian, kebijakan lemah, dan etika yang ditinggalkan.
