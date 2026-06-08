@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Logo & Banner -->
-<img src="https://anthefonic.biz.id/logo.jpeg" alt="Anthefonic Team" width="120" style="border-radius: 50%;" />
+<!-- <img src="https://anthefonic.biz.id/logo.jpeg" alt="Anthefonic Team" width="120" style="border-radius: 50%;" /> -->
+<img src="https://anthefonic.biz.id/cdn/ATF_banner.png" alt="Anthefonic Team" width="120" style="border-radius: 50%;" />
 
 <br/>
 
