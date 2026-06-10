@@ -12,7 +12,7 @@
 
 <!-- Core Badges -->
 ![Members](https://img.shields.io/badge/Members-13%20Active-00d9ff?style=for-the-badge&logo=groups&logoColor=white)
-![Division](https://img.shields.io/badge/Divisions-7%20Fields-7c3aed?style=for-the-badge&logo=buffer&logoColor=white)
+![Division](https://img.shields.io/badge/Divisions-5%20Fields-7c3aed?style=for-the-badge&logo=buffer&logoColor=white)
 ![Disclosure](https://img.shields.io/badge/Responsible%20Disclosure-100%25-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 <!-- Status Badges -->
